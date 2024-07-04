@@ -25,6 +25,12 @@
     <link rel="stylesheet" href="css/slicknav.css">
     <link rel="stylesheet" href="css/style.css">
     <!-- <link rel="stylesheet" href="css/responsive.css"> -->
+
+    <style>
+        .text_style{
+            text-align:justify
+        }
+    </style>
 </head>
 
 <body>
@@ -58,11 +64,10 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text ">
-                                <h3> <span>Health care</span> <br>
-                                    For Hole Family </h3>
-                                <p>In healthcare sector, service excellence is the facility of <br> the hospital as
-                                    healthcare service provider to consistently.</p>
-                                <a href="#" class="boxed-btn3">Check Our Services</a>
+                                <h3> <span>Innovate</span> <br>
+                                    Grow. Succeed</h3>
+                                <p>Join our team and embark on a journey of innovation, growth, and impact.</p>
+                                <a href="#" class="boxed-btn3">Explore Careers</a>
                             </div>
                         </div>
                     </div>
@@ -73,11 +78,10 @@
                     <div class="row">
                         <div class="col-xl-12">
                             <div class="slider_text ">
-                                <h3> <span>Health care</span> <br>
-                                    For Hole Family </h3>
-                                <p>In healthcare sector, service excellence is the facility of <br> the hospital as
-                                    healthcare service provider to consistently.</p>
-                                <a href="#" class="boxed-btn3">Check Our Services</a>
+                                <h3> <span>Innovate</span> <br>
+                                    Grow. Succeed</h3>
+                                <p>Join our team and embark on a journey of innovation, growth, and impact.</p>
+                                <a href="#" class="boxed-btn3">Explore Careers</a>
                             </div>
                         </div>
                     </div>
@@ -129,6 +133,40 @@
     <!-- welcome_docmed_area_start -->
     <div class="welcome_docmed_area">
         <div class="container">
+            <div class="row">                
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome_docmed_info">
+                        <h2>Welcome to our company</h2>
+                        <h3>Your Career Growth Starts Here<br></h3>
+                        <p class="text_style">
+                        At [Your Company], we believe in nurturing talent and fostering growth. Join us and be a part of a team where your skills and aspirations are valued.
+                        </p>
+                        <ul>
+                            <li> <i class="flaticon-right"></i> Opportunities to work on innovative projects. </li>
+                            <li> <i class="flaticon-right"></i> A supportive and inclusive work environment.</li>
+                            <li> <i class="flaticon-right"></i> Professional development and career advancement. </li>
+                        </ul>
+                        <a href="about.php" class="boxed-btn3-white-2">Learn More</a>
+                    </div>
+                </div>
+                <div class="col-xl-6 col-lg-6">
+                    <div class="welcome_thumb">
+                        <div class="thumb_1">
+                            <img src="img/about/1.png" alt="">
+                        </div>
+                        <div class="thumb_2">
+                            <img src="img/about/2.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- welcome_docmed_area_end -->
+
+    <!-- why choose us -->
+    <div class="welcome_docmed_area">
+        <div class="container">
             <div class="row">
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_thumb">
@@ -142,23 +180,16 @@
                 </div>
                 <div class="col-xl-6 col-lg-6">
                     <div class="welcome_docmed_info">
-                        <h2>Welcome to our company</h2>
-                        <h3>Your Career Growth Starts Here<br></h3>
-                        <p>
-                        At [Your Company], we believe in nurturing talent and fostering growth. Join us and be a part of a team where your skills and aspirations are valued.
-                        </p>
-                        <ul>
-                            <li> <i class="flaticon-right"></i> Opportunities to work on innovative projects. </li>
-                            <li> <i class="flaticon-right"></i> A supportive and inclusive work environment.</li>
-                            <li> <i class="flaticon-right"></i> Professional development and career advancement. </li>
-                        </ul>
-                        <a href="#" class="boxed-btn3-white-2">Learn More</a>
+                        <h2>Why choose us?</h2>                        
+                        <p class="text_style">
+                        We are India’s largest human resource company, spread over 7500+ pin codes, across 28 states. We have hired more than 20 lakh employees in the last 20 years of our journey. Bridging the gap between the employer-employee (3500+ companies) with a range of staffing HR solutions, TeamLease continues tapping into an ever-widening array of employment services. Our culture of innovation and performance-driven makes us one of the most sought-after manpower consultancies in Pune. Team up with us to meet your   business needs with a faster turnaround time!                        
+                        </p>                                            
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- welcome_docmed_area_end -->
+    <!-- why choose us -->
 
     <!-- offers_area_start -->
     <div class="our_department_area" id="services">
@@ -531,37 +562,7 @@
     </div>
     <!-- expert_doctors_area_end -->
 
-    <!-- Emergency_contact start -->
-    <div class="Emergency_contact">
-        <div class="conatiner-fluid p-0">
-            <div class="row no-gutters">
-                <div class="col-xl-6">
-                    <div class="single_emergency d-flex align-items-center justify-content-center emergency_bg_1 overlay_skyblue">
-                        <div class="info">
-                            <h3>Our Contact Detail's</h3>
-                            <p>Esteem spirit temper too say adieus.</p>
-                        </div>
-                        <div class="info_button">
-                            <a href="#" class="boxed-btn3-white">+10 378 4673 467</a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6">
-                    <div class="single_emergency d-flex align-items-center justify-content-center emergency_bg_2 overlay_skyblue">
-                        <div class="info">
-                            <h3>Make an Online Appointment</h3>
-                            <p>Esteem spirit temper too say adieus.</p>
-                        </div>
-                        <div class="info_button">
-                            <a href="#" class="boxed-btn3-white">Make an Appointment</a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Emergency_contact end -->
-
+    
 <!-- footer start -->
 <?php include("includes/foot.php"); ?>
 <!-- footer end  -->
